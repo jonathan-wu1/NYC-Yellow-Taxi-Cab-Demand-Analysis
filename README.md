@@ -2,7 +2,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11487060&assignment_repo_type=AssignmentRepo)
 # MAST30034 Project 1 README.md
 - Name: Jonathan Wu
-- Student ID: 1269144 
+- Student ID: ... 
 
 To run the pipeline, please visit the `scripts` directory and run the files in order:
 1. `download.py`: This downloads the raw data into the `data/landing` directory.
